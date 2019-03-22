@@ -1,0 +1,11 @@
+html {
+  font-family: Merriweather, serif;
+}
+
+.calendar, td, th {
+  border: 1px solid #ccc;
+}
+
+td {
+  height: 11em;
+}
