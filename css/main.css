@@ -9,3 +9,29 @@ html {
 td {
   height: 11em;
 }
+
+.notes {
+  color: #333;
+  background-color: #f2f2f2;
+  border: 1px solid #666;
+  border-radius: 8px;
+  text-align: left;
+}
+
+.notes-red {
+  color: #991919;
+  background-color: #f2bcbc;
+  border: 1px solid #b92828;
+}
+
+.notes-green {
+  color: #51603f;
+  background-color: #d1e0bf;
+  border: 1px solid #6b7e54;
+}
+
+.notes-blue {
+  color: #38448e;
+  background-color: #d2d6f0;
+  border: 1px solid #1d38da;
+}
